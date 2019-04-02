@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Key Group Test</string>
+  <string name="no_geocoder_available">Google карты не доступны.</string>
+  <string name="title_activity_location">Местоположение пользователя</string>
+  <string name="network_resource">Сеть</string>
+  <string name="unknown_location">Неизвестная локация</string>
+  <string name="longitude">Долгота</string>
+  <string name="latitude">Широта</string>
+  <string name="coordinates">Координаты</string>
+
+  <!-- Address View -->
+  <string name="address_view_address">Адрес: </string>
+  <string name="address_view_city">Город: </string>
+  <string name="address_view_zip_code">Zip-код: </string>
+
+  <!--Toast-->
+  <string name="toast_load_location_error">Что-то пошло не так. Пожалуйста попробуйте снова.</string>
+  <string name="toast_error_permission_location">Нужно дать разрешение для местоположения, чтобы продолжить работу.</string>
+</resources>

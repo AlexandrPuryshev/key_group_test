@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Key Group Test</string>
+  <string name="launch_standart_map">Запустить стандартную карту</string>
+  <string name="launch_map_with_hide_city_and_zip_code" >Запустить карту с скрытым городом и zip-кодом</string>
+  <string name="launch_map_with_style">Запустить карту с другим стилем</string>
+  <string name="google_maps_key">AIzaSyAptaNtoNRRpfj8tHBD6bAd-UUdjmC-vmI</string>
+</resources>
